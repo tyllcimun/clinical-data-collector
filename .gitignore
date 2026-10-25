@@ -53,7 +53,18 @@ data/generated/
 *.user
 *.userosscache
 *.sln.docstates
+!.vscode/extensions.json
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
 
 .DS_Store
 Thumbs.db
 desktop.ini
+
+dist-ssr/
+*.local
+
+yarn-error.log*
+lerna-debug.log*
