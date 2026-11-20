@@ -1,0 +1,13 @@
+.home-page {
+    flex: 1;
+    background-color: var(--app-background);
+    padding: 40px var(--space-8) var(--space-16);
+}
+
+.home-page__container {
+    max-width: 1088px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 44px;
+}

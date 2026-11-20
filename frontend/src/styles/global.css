@@ -1,4 +1,4 @@
-@import './fonts.css';
+@import url('https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;500;600;700&display=swap');
 
 :root {
     /* =========================================================
@@ -197,7 +197,7 @@ html {
 
 body {
     font-family: 'Golos Text', 'Segoe UI', system-ui, -apple-system, sans-serif;
-    --font-mono: 'Golos Text', sans-serif;
+    /* --font-mono: 'Golos Text', sans-serif; */
     font-weight: 400;
     font-size: 0.9375rem;
     line-height: 1.5;
